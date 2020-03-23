@@ -1,7 +1,6 @@
 # Application Internationalization  🚀
 
-Já se perguntou como é feito a internacionalização de aplicativo desenvolvido com react-native ? Com esse questionamento em mente
-resolvi desenvolver esse pequeno aplicativo com apenas um formulário de login e implementar um suporte para vários idiomas.
+Já se perguntou como é feito a internacionalização de aplicativos desenvolvidos com react-native? Com esse questionamento em mente resolvi desenvolver esse pequeno aplicativo que contém apenas um formulário de login e implementei o suporte para vários idiomas.
 
 ## 👨🏼‍💻 Desenvolvedor 
 
